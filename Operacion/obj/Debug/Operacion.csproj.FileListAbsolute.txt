@@ -1,0 +1,6 @@
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Operacion\Operacion\bin\Debug\Operacion.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Operacion\Operacion\bin\Debug\Operacion.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Operacion\Operacion\bin\Debug\Operacion.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Operacion\Operacion\obj\Debug\Operacion.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Operacion\Operacion\obj\Debug\Operacion.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Operacion\Operacion\obj\Debug\Operacion.pdb
